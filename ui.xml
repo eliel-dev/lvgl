@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<screen
+    width="128"
+    height="64"
+    bg_color="#050816">
+
+    <view>
+
+        <lv_obj
+            x="0"
+            y="0"
+            width="128"
+            height="64"
+            style_bg_color="#050816"
+            style_border_width="0"
+            style_radius="0">
+
+            <lv_obj
+                x="0"
+                y="0"
+                width="128"
+                height="8"
+                style_bg_color="#ff0055"
+                style_border_width="0"
+                style_radius="0"/>
+
+            <lv_label
+                x="4"
+                y="10"
+                text="22:47"
+                style_text_color="#00f0ff"
+                style_text_font="lv_font_montserrat_28"/>
+
+            <lv_label
+                x="6"
+                y="44"
+                text="NIGHT CITY"
+                style_text_color="#ffe600"
+                style_text_font="lv_font_montserrat_10"/>
+
+            <lv_obj
+                x="78"
+                y="14"
+                width="46"
+                height="24"
+                style_bg_color="#10182a"
+                style_border_color="#00f0ff"
+                style_border_width="1"
+                style_radius="0">
+
+                <lv_obj
+                    x="3"
+                    y="12"
+                    width="4"
+                    height="8"
+                    style_bg_color="#ff00aa"
+                    style_border_width="0"/>
+
+                <lv_obj
+                    x="10"
+                    y="8"
+                    width="4"
+                    height="12"
+                    style_bg_color="#00f0ff"
+                    style_border_width="0"/>
+
+                <lv_obj
+                    x="17"
+                    y="4"
+                    width="4"
+                    height="16"
+                    style_bg_color="#ff0055"
+                    style_border_width="0"/>
+
+                <lv_obj
+                    x="24"
+                    y="10"
+                    width="4"
+                    height="10"
+                    style_bg_color="#ffe600"
+                    style_border_width="0"/>
+
+            </lv_obj>
+
+            <lv_obj
+                x="84"
+                y="54"
+                width="38"
+                height="5"
+                style_bg_color="#1b2338"
+                style_border_color="#ff0055"
+                style_border_width="1"
+                style_radius="0">
+
+                <lv_obj
+                    x="1"
+                    y="1"
+                    width="28"
+                    height="3"
+                    style_bg_color="#00ff99"
+                    style_border_width="0"/>
+
+            </lv_obj>
+
+        </lv_obj>
+
+    </view>
+
+</screen>
